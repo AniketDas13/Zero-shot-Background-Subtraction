@@ -1,4 +1,4 @@
-# Backlit-Image-Enhancement
+# Zero-shot-Background-Subtraction
 Implementation of the Paper ["ZBS: Zero-shot Background Subtraction via Instance-level Background Modeling and Foreground Selection"](https://arxiv.org/abs/2303.14679) by Yongqi An et al., published in the 2023 Computer Vision and Pattern Recognition Conference, as a part of Computer Vision coursework.
 
 Experimental Setup used for the implementation of the project:
